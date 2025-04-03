@@ -3,7 +3,7 @@ import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
 
 const PREVIEW_MESSAGES = [
-  { id: 1, content: "Hey! How's it going?", isSent: false },
+  { id: 1, content: "Hey! Vamshi How's it going?", isSent: false },
   { id: 2, content: "I'm doing great! Just working on some new features.", isSent: true },
 ];
 
@@ -57,7 +57,7 @@ const SettingsPage = () => {
                       J
                     </div>
                     <div>
-                      <h3 className="font-medium text-sm">Jaipal</h3>
+                      <h3 className="font-medium text-sm">Vamshi</h3>
                       <p className="text-xs text-base-content/70">Online</p>
                     </div>
                   </div>
